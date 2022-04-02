@@ -1,0 +1,2 @@
+def testPass():
+    assert True
